@@ -6,7 +6,14 @@
 		</title>
 	</head>
 	<body>
-		<h3>Spring MVC Demo Page</h3>
-		<a href="form">Show Form</a>
+		<h3>Student Form</h3>
+		<a href="student/form">
+			Show Form
+		</a>
+		<br><br>
+		<h3>Customer Form</h3>
+		<a href="customer/form">
+			Show Form
+		</a>
 	</body>
 </html>

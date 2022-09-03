@@ -29,6 +29,11 @@
 			Swift : <form:radiobutton path="favoriteLanguage" value="Swift"/>
 			JS : <form:radiobutton path="favoriteLanguage" value="JavaScript"/>
 			<br><br>
+			Best Operating System:
+			Linux : <form:checkbox path="operatingSystems" value="Linux"/>
+			Mac Os : <form:checkbox path="operatingSystems" value="Mac Os"/>
+			Windows : <form:checkbox path="operatingSystems" value="Windows"/>
+			<br><br>
 			<input type="submit"/>
 		</form:form>
 	</body>
